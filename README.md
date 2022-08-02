@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview
-### A Colorado Board of Elections official has requested assistance with an election audit of the tabulated results from a U.S. Congressional precinct in Colorado. I’ve been tasked with reporting the following:
+### A Colorado Board of Elections official requested assistance with an election audit of the tabulated results from a U.S. Congressional precinct in Colorado. I was tasked with reporting the following:
 1.	Calculate the total number of votes cast in the election.
 2.	Provide a complete list of all candidates who received votes.
 3.	Calculate the total number of votes each candidate received.
